@@ -16,6 +16,6 @@ Toast Library for FLutter
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'Toast'
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 end
 
